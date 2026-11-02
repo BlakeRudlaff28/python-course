@@ -11,6 +11,16 @@ This repository contains my Python coursework and assignments from Fall 2026. It
 
 ### 1. Commit History
 
+
+### 1. Commit History
+
+```
+2a4ec18 Enhance README with course details and reflections
+9d810b9 Add functions for tax calculation and discounts
+8b290c2 Add .gitignore to exclude common files
+64233d2 Initial commit
+```
+
 My commit history shows that I can organize my work and make changes step by step. The descriptive commit messages make it easier to understand what I worked on and show that I am keeping track of my progress.
 
 ### 2. Using Git
